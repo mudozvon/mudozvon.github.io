@@ -1,0 +1,21 @@
+@font-face {
+	font-family: Gentium Plus;
+	src: url(16125.ttf);
+}
+
+body {
+	background-color: #98f5b8;
+	font-family: Gentium Plus;
+		font-size: 25px;
+
+}
+img {
+	height: 370px;
+	width: 600px;
+}
+#box {
+	width: 50%;
+	margin: auto;
+	background-color: #fff;
+	padding: 25px;
+}
